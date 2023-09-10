@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+#btn{
+    max-width: 300px;
+    width: 300px;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 40px;
+    background-color:greenyellow;
+    cursor: pointer;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.second{
+    display: flex;
+    justify-content: center;
+}
+.matter img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+  
+        margin-left:  0px;
+ 
+ 
+}
+p{
+    letter-spacing: 2px;
+}
+footer{
+    position: absolute;
+    bottom: 0; 
+}
